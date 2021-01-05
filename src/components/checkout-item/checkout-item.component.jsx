@@ -8,7 +8,6 @@ import {
   addItem,
   removeItem,
 } from "../../redux/cart/cart.actions";
-import { removeItemFromCart } from "../../redux/cart/cart.utils";
 //Styles
 import "./checkout-item.styles.scss";
 
